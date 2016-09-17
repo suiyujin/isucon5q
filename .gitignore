@@ -1,2 +1,3 @@
 .*
 !/.gitignore
+webapp/ruby/unicorn.pid
